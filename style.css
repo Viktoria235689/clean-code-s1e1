@@ -18,9 +18,9 @@
 }
 
 @media (max-width:768px) {
-.emblem { 
-  text-align: center;
-}
+  .header { 
+    text-align: center;
+  }
 }
 .main-wrapper {
   display: block;
