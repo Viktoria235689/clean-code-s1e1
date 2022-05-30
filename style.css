@@ -32,13 +32,13 @@
   margin: 0 auto 0;
 }
 
-.add-text {
+.new-task {
   width: 56%;
   display: inline-block;
   flex-grow: 1;
 }
 
-.add-section-functionality {
+.main-wrapper__add-section-functionality{
   display: flex;
 }
 
